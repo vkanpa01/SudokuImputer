@@ -76,16 +76,6 @@ SudokuImputer frames missing value imputation as a structured sequence of "puzzl
 This design ensures that highly informative features are imputed early, reducing noise propagation and improving robustness under MCAR, MAR, and MNAR missingness.
 
 ---
-## Citation
-
-@misc{<your_citation_here>,
-  title  = {SudokuImputer: Graph-based Feature Prioritization for Data Imputation},
-  author = {<Your Name>},
-  year   = {2025},
-  url    = {https://github.com/<username>/SudokuImputer}
-}
-
----
 ## Contributing
 
 Contributions are welcome! Please open an issue, submit a pull request, or contact the corresponding author at vivek.kanpa@icahn.mssm.edu
