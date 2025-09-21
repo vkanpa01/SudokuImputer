@@ -1,0 +1,1204 @@
+{
+  "round_1": {
+    "V1": {
+      "partner_nodes": [
+        "V1",
+        "V39",
+        "V27",
+        "V15",
+        "V36",
+        "V23",
+        "V7",
+        "V6"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 316,
+      "model_predictions": 316,
+      "model_training_attempts": 21,
+      "selected_partners": [
+        "V1",
+        "V39",
+        "V27",
+        "V15",
+        "V36",
+        "V23",
+        "V7",
+        "V6"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V2": {
+      "partner_nodes": [
+        "V2",
+        "V37",
+        "V14",
+        "V17",
+        "V18",
+        "V20",
+        "V9",
+        "V30"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 1,
+      "model_predictions": 1,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V2",
+        "V37",
+        "V14",
+        "V17",
+        "V18",
+        "V20",
+        "V9",
+        "V30"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V23": {
+      "partner_nodes": [
+        "V23",
+        "V7",
+        "V27",
+        "V22",
+        "V8",
+        "V36",
+        "V39",
+        "V33"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 1,
+      "model_predictions": 1,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V23",
+        "V7",
+        "V27",
+        "V22",
+        "V8",
+        "V36",
+        "V39",
+        "V33"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V24": {
+      "partner_nodes": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 42,
+      "model_predictions": 42,
+      "model_training_attempts": 5,
+      "selected_partners": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V25": {
+      "partner_nodes": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 156,
+      "model_predictions": 156,
+      "model_training_attempts": 9,
+      "selected_partners": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V26": {
+      "partner_nodes": [
+        "V26",
+        "V34",
+        "V11",
+        "V5",
+        "V38",
+        "V23",
+        "V4",
+        "V22"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 3,
+      "model_predictions": 3,
+      "model_training_attempts": 3,
+      "selected_partners": [
+        "V26",
+        "V34",
+        "V11",
+        "V5",
+        "V38",
+        "V23",
+        "V4",
+        "V22"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V27": {
+      "partner_nodes": [
+        "V27",
+        "V23",
+        "V39",
+        "V1",
+        "V36",
+        "V15",
+        "V7",
+        "V13"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 316,
+      "model_predictions": 316,
+      "model_training_attempts": 16,
+      "selected_partners": [
+        "V27",
+        "V23",
+        "V39",
+        "V1",
+        "V36",
+        "V15",
+        "V7",
+        "V13"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V28": {
+      "partner_nodes": [
+        "V28",
+        "V27",
+        "V23",
+        "V8",
+        "V13",
+        "V7",
+        "V32",
+        "V22"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 316,
+      "model_predictions": 316,
+      "model_training_attempts": 10,
+      "selected_partners": [
+        "V28",
+        "V27",
+        "V23",
+        "V8",
+        "V13",
+        "V7",
+        "V32",
+        "V22"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V29": {
+      "partner_nodes": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 28,
+      "model_predictions": 28,
+      "model_training_attempts": 5,
+      "selected_partners": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V30": {
+      "partner_nodes": [
+        "V30",
+        "V16",
+        "V37",
+        "V10",
+        "V17",
+        "V39",
+        "V20",
+        "V31"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 1,
+      "model_predictions": 1,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V30",
+        "V16",
+        "V37",
+        "V10",
+        "V17",
+        "V39",
+        "V20",
+        "V31"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V31": {
+      "partner_nodes": [
+        "V31",
+        "V14",
+        "V9",
+        "V13",
+        "V16",
+        "V30",
+        "V15",
+        "V39"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 2,
+      "model_predictions": 2,
+      "model_training_attempts": 2,
+      "selected_partners": [
+        "V31",
+        "V14",
+        "V9",
+        "V13",
+        "V16",
+        "V30",
+        "V15",
+        "V39"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V32": {
+      "partner_nodes": [
+        "V32",
+        "V23",
+        "V6",
+        "V27",
+        "V1",
+        "V15",
+        "V9",
+        "V12"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 4,
+      "model_predictions": 4,
+      "model_training_attempts": 3,
+      "selected_partners": [
+        "V32",
+        "V23",
+        "V6",
+        "V27",
+        "V1",
+        "V15",
+        "V9",
+        "V12"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V33": {
+      "partner_nodes": [
+        "V33",
+        "V7",
+        "V23",
+        "V36",
+        "V39",
+        "V22",
+        "V5",
+        "V11"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 2,
+      "model_predictions": 2,
+      "model_training_attempts": 2,
+      "selected_partners": [
+        "V33",
+        "V7",
+        "V23",
+        "V36",
+        "V39",
+        "V22",
+        "V5",
+        "V11"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V34": {
+      "partner_nodes": [
+        "V34",
+        "V38",
+        "V11",
+        "V5",
+        "V35",
+        "V20",
+        "V33",
+        "V26"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 15,
+      "model_predictions": 15,
+      "model_training_attempts": 5,
+      "selected_partners": [
+        "V34",
+        "V38",
+        "V11",
+        "V5",
+        "V35",
+        "V20",
+        "V33",
+        "V26"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V35": {
+      "partner_nodes": [
+        "V35",
+        "V38",
+        "V34",
+        "V11",
+        "V5",
+        "V33",
+        "V37",
+        "V18"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 20,
+      "model_predictions": 20,
+      "model_training_attempts": 3,
+      "selected_partners": [
+        "V35",
+        "V38",
+        "V34",
+        "V11",
+        "V5",
+        "V33",
+        "V37",
+        "V18"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V36": {
+      "partner_nodes": [
+        "V36",
+        "V39",
+        "V3",
+        "V22",
+        "V7",
+        "V23",
+        "V33",
+        "V40"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 97,
+      "model_predictions": 97,
+      "model_training_attempts": 8,
+      "selected_partners": [
+        "V36",
+        "V39",
+        "V3",
+        "V22",
+        "V7",
+        "V23",
+        "V33",
+        "V40"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V37": {
+      "partner_nodes": [
+        "V37",
+        "V17",
+        "V30",
+        "V2",
+        "V10",
+        "V16",
+        "V20",
+        "V35"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 7,
+      "model_predictions": 7,
+      "model_training_attempts": 2,
+      "selected_partners": [
+        "V37",
+        "V17",
+        "V30",
+        "V2",
+        "V10",
+        "V16",
+        "V20",
+        "V35"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V38": {
+      "partner_nodes": [
+        "V38",
+        "V34",
+        "V11",
+        "V5",
+        "V35",
+        "V20",
+        "V4",
+        "V33"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 15,
+      "model_predictions": 15,
+      "model_training_attempts": 3,
+      "selected_partners": [
+        "V38",
+        "V34",
+        "V11",
+        "V5",
+        "V35",
+        "V20",
+        "V4",
+        "V33"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V39": {
+      "partner_nodes": [
+        "V39",
+        "V36",
+        "V13",
+        "V3",
+        "V15",
+        "V7",
+        "V27",
+        "V1"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 54,
+      "model_predictions": 54,
+      "model_training_attempts": 8,
+      "selected_partners": [
+        "V39",
+        "V36",
+        "V13",
+        "V3",
+        "V15",
+        "V7",
+        "V27",
+        "V1"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V22": {
+      "partner_nodes": [
+        "V22",
+        "V36",
+        "V7",
+        "V23",
+        "V8",
+        "V3",
+        "V39",
+        "V33"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 21,
+      "model_predictions": 21,
+      "model_training_attempts": 4,
+      "selected_partners": [
+        "V22",
+        "V36",
+        "V7",
+        "V23",
+        "V8",
+        "V3",
+        "V39",
+        "V33"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V21": {
+      "partner_nodes": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 22,
+      "model_predictions": 22,
+      "model_training_attempts": 4,
+      "selected_partners": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V20": {
+      "partner_nodes": [
+        "V20",
+        "V11",
+        "V30",
+        "V33",
+        "V5",
+        "V34",
+        "V17",
+        "V38"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 2,
+      "model_predictions": 2,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V20",
+        "V11",
+        "V30",
+        "V33",
+        "V5",
+        "V34",
+        "V17",
+        "V38"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V10": {
+      "partner_nodes": [
+        "V10",
+        "V16",
+        "V30",
+        "V37",
+        "V17",
+        "V14",
+        "V20",
+        "V31"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 299,
+      "model_predictions": 299,
+      "model_training_attempts": 4,
+      "selected_partners": [
+        "V10",
+        "V16",
+        "V30",
+        "V37",
+        "V17",
+        "V14",
+        "V20",
+        "V31"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V3": {
+      "partner_nodes": [
+        "V3",
+        "V40",
+        "V36",
+        "V39",
+        "V22",
+        "V17",
+        "V13",
+        "V33"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 4,
+      "model_predictions": 4,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V3",
+        "V40",
+        "V36",
+        "V39",
+        "V22",
+        "V17",
+        "V13",
+        "V33"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V4": {
+      "partner_nodes": [
+        "V4",
+        "V38",
+        "V5",
+        "V11",
+        "V34",
+        "V26",
+        "V33",
+        "V35"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 1,
+      "model_predictions": 1,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V4",
+        "V38",
+        "V5",
+        "V11",
+        "V34",
+        "V26",
+        "V33",
+        "V35"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V5": {
+      "partner_nodes": [
+        "V5",
+        "V11",
+        "V34",
+        "V38",
+        "V33",
+        "V20",
+        "V23",
+        "V7"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 1,
+      "model_predictions": 1,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V5",
+        "V11",
+        "V34",
+        "V38",
+        "V33",
+        "V20",
+        "V23",
+        "V7"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V6": {
+      "partner_nodes": [
+        "V6",
+        "V9",
+        "V1",
+        "V15",
+        "V32",
+        "V27",
+        "V2",
+        "V16"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 26,
+      "model_predictions": 26,
+      "model_training_attempts": 5,
+      "selected_partners": [
+        "V6",
+        "V9",
+        "V1",
+        "V15",
+        "V32",
+        "V27",
+        "V2",
+        "V16"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V7": {
+      "partner_nodes": [
+        "V7",
+        "V33",
+        "V23",
+        "V36",
+        "V22",
+        "V39",
+        "V8",
+        "V27"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 33,
+      "model_predictions": 33,
+      "model_training_attempts": 2,
+      "selected_partners": [
+        "V7",
+        "V33",
+        "V23",
+        "V36",
+        "V22",
+        "V39",
+        "V8",
+        "V27"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V8": {
+      "partner_nodes": [
+        "V8",
+        "V23",
+        "V22",
+        "V7",
+        "V33",
+        "V36",
+        "V39",
+        "V27"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 316,
+      "model_predictions": 316,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V8",
+        "V23",
+        "V22",
+        "V7",
+        "V33",
+        "V36",
+        "V39",
+        "V27"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V9": {
+      "partner_nodes": [
+        "V9",
+        "V14",
+        "V6",
+        "V31",
+        "V18",
+        "V2",
+        "V15",
+        "V16"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 3,
+      "model_predictions": 3,
+      "model_training_attempts": 3,
+      "selected_partners": [
+        "V9",
+        "V14",
+        "V6",
+        "V31",
+        "V18",
+        "V2",
+        "V15",
+        "V16"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V11": {
+      "partner_nodes": [
+        "V11",
+        "V5",
+        "V34",
+        "V38",
+        "V33",
+        "V20",
+        "V23",
+        "V35"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 5,
+      "model_predictions": 5,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V11",
+        "V5",
+        "V34",
+        "V38",
+        "V33",
+        "V20",
+        "V23",
+        "V35"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V19": {
+      "partner_nodes": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 8,
+      "model_predictions": 8,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6",
+        "V7",
+        "V8"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V12": {
+      "partner_nodes": [
+        "V12",
+        "V22",
+        "V3",
+        "V9",
+        "V32",
+        "V34",
+        "V6",
+        "V38"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 316,
+      "model_predictions": 316,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V12",
+        "V22",
+        "V3",
+        "V9",
+        "V32",
+        "V34",
+        "V6",
+        "V38"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V13": {
+      "partner_nodes": [
+        "V13",
+        "V39",
+        "V15",
+        "V36",
+        "V1",
+        "V27",
+        "V31",
+        "V3"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 316,
+      "model_predictions": 316,
+      "model_training_attempts": 2,
+      "selected_partners": [
+        "V13",
+        "V39",
+        "V15",
+        "V36",
+        "V1",
+        "V27",
+        "V31",
+        "V3"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V14": {
+      "partner_nodes": [
+        "V14",
+        "V31",
+        "V9",
+        "V2",
+        "V18",
+        "V16",
+        "V10",
+        "V30"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 87,
+      "model_predictions": 87,
+      "model_training_attempts": 3,
+      "selected_partners": [
+        "V14",
+        "V31",
+        "V9",
+        "V2",
+        "V18",
+        "V16",
+        "V10",
+        "V30"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V15": {
+      "partner_nodes": [
+        "V15",
+        "V39",
+        "V1",
+        "V27",
+        "V13",
+        "V23",
+        "V16",
+        "V36"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 316,
+      "model_predictions": 316,
+      "model_training_attempts": 2,
+      "selected_partners": [
+        "V15",
+        "V39",
+        "V1",
+        "V27",
+        "V13",
+        "V23",
+        "V16",
+        "V36"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V16": {
+      "partner_nodes": [
+        "V16",
+        "V30",
+        "V10",
+        "V15",
+        "V39",
+        "V37",
+        "V1",
+        "V17"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 16,
+      "model_predictions": 16,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V16",
+        "V30",
+        "V10",
+        "V15",
+        "V39",
+        "V37",
+        "V1",
+        "V17"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V17": {
+      "partner_nodes": [
+        "V17",
+        "V37",
+        "V40",
+        "V30",
+        "V3",
+        "V36",
+        "V2",
+        "V39"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 2,
+      "model_predictions": 2,
+      "model_training_attempts": 2,
+      "selected_partners": [
+        "V17",
+        "V37",
+        "V40",
+        "V30",
+        "V3",
+        "V36",
+        "V2",
+        "V39"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V18": {
+      "partner_nodes": [
+        "V18",
+        "V14",
+        "V9",
+        "V2",
+        "V35",
+        "V37",
+        "V38",
+        "V31"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 316,
+      "model_predictions": 316,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V18",
+        "V14",
+        "V9",
+        "V2",
+        "V35",
+        "V37",
+        "V38",
+        "V31"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V40": {
+      "partner_nodes": [
+        "V40",
+        "V3",
+        "V36",
+        "V17",
+        "V39",
+        "V22",
+        "V33",
+        "V13"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 3,
+      "model_predictions": 3,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V40",
+        "V3",
+        "V36",
+        "V17",
+        "V39",
+        "V22",
+        "V33",
+        "V13"
+      ],
+      "imputability_ratio": 1.0
+    }
+  }
+}

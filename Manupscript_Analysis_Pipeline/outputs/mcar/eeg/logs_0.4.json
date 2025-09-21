@@ -1,0 +1,238 @@
+{
+  "round_1": {
+    "V1": {
+      "partner_nodes": [
+        "V1",
+        "V13"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 2415,
+      "median_value": 0.0105875326569353,
+      "total_missing": 5960,
+      "model_predictions": 3545,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V1",
+        "V13"
+      ],
+      "imputability_ratio": 0.5947986577181208
+    },
+    "V2": {
+      "partner_nodes": [
+        "V2",
+        "V4"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 2400,
+      "median_value": 0.23639079927312442,
+      "total_missing": 5951,
+      "model_predictions": 3551,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V2",
+        "V4"
+      ],
+      "imputability_ratio": 0.5967064358931272
+    },
+    "V3": {
+      "partner_nodes": [
+        "V3",
+        "V1"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 5935,
+      "model_predictions": 5935,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V3",
+        "V1"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V4": {
+      "partner_nodes": [
+        "V4",
+        "V2"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 6079,
+      "model_predictions": 6079,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V4",
+        "V2"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V5": {
+      "partner_nodes": [
+        "V5",
+        "V6"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 2389,
+      "median_value": 0.5128654250539386,
+      "total_missing": 5987,
+      "model_predictions": 3598,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V5",
+        "V6"
+      ],
+      "imputability_ratio": 0.6009687656589277
+    },
+    "V6": {
+      "partner_nodes": [
+        "V6",
+        "V5"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 5967,
+      "model_predictions": 5967,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V6",
+        "V5"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V7": {
+      "partner_nodes": [
+        "V7",
+        "V6"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 5967,
+      "model_predictions": 5967,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V7",
+        "V6"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V8": {
+      "partner_nodes": [
+        "V8",
+        "V9"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 2380,
+      "median_value": 0.01718552489229071,
+      "total_missing": 5987,
+      "model_predictions": 3607,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V8",
+        "V9"
+      ],
+      "imputability_ratio": 0.6024720227158844
+    },
+    "V9": {
+      "partner_nodes": [
+        "V9",
+        "V8"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 6017,
+      "model_predictions": 6017,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V9",
+        "V8"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V10": {
+      "partner_nodes": [
+        "V10",
+        "V9"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 5967,
+      "model_predictions": 5967,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V10",
+        "V9"
+      ],
+      "imputability_ratio": 1.0
+    },
+    "V11": {
+      "partner_nodes": [
+        "V11",
+        "V12"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 2393,
+      "median_value": 0.2609085146841327,
+      "total_missing": 5948,
+      "model_predictions": 3555,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V11",
+        "V12"
+      ],
+      "imputability_ratio": 0.597679892400807
+    },
+    "V12": {
+      "partner_nodes": [
+        "V12",
+        "V13"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 2381,
+      "median_value": 0.4254216890323967,
+      "total_missing": 5997,
+      "model_predictions": 3616,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V12",
+        "V13"
+      ],
+      "imputability_ratio": 0.6029681507420377
+    },
+    "V13": {
+      "partner_nodes": [
+        "V13",
+        "V1"
+      ],
+      "excluded_partners": [],
+      "median_imputed_partners": [],
+      "median_fallback_count": 0,
+      "median_value": null,
+      "total_missing": 5963,
+      "model_predictions": 5963,
+      "model_training_attempts": 1,
+      "selected_partners": [
+        "V13",
+        "V1"
+      ],
+      "imputability_ratio": 1.0
+    }
+  }
+}

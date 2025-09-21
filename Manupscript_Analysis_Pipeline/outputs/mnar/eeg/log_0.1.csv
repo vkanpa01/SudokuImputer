@@ -1,0 +1,11 @@
+,V1,V3,V12,V13
+partner_nodes,"['V1', 'V12']","['V3', 'V1']","['V12', 'V1']","['V13', 'V11']"
+excluded_partners,[],[],[],[]
+median_imputed_partners,[],[],[],[]
+median_fallback_count,0,0,0,0
+median_value,,,,
+total_missing,1,1490,1512,1
+model_predictions,1,1490,1512,1
+model_training_attempts,1,1,1,1
+selected_partners,"['V1', 'V12']","['V3', 'V1']","['V12', 'V1']","['V13', 'V11']"
+imputability_ratio,1.0,1.0,1.0,1.0
